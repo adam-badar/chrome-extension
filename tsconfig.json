@@ -1,0 +1,8 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "target": "ES6", // Change as needed
+    "outDir": "./", // Output directory for compiled files
+    "rootDir": "./" // Source directory of TypeScript files
+  }
+}
